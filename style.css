@@ -1,14 +1,38 @@
-.eml input{background-color:,while;
-           margin-top:100px;
-           margin-left:90px;}
-.pas input{background-color:while;
-           margin-top:30px;
-           margin-left:90px}
-.btn input{background-color:orange;
-           margin-top:300px;
-           margin-left:155px;
-           height:25px;
-           width:50px;}
-.tex1{margin-top:10px;
-     margin-left:30px}
-body{border:50px solid black;}
+.eml input{
+    background-color:white;
+    margin-top:100px;
+    margin-left:90px;
+}
+.pas input{
+    background-color:white;
+    margin-top:30px;
+    margin-left:90px
+}
+.btn input{
+    background-color:rgb(115, 174, 151);
+    margin-top:300px;
+    margin-left:155px;
+    height:25px;
+    width:50px;
+}
+.tex1{
+    margin-top:10px;
+    margin-left:15px;
+    display: flex;
+    align-items:center;
+    border:3px solid rgb(59, 75, 195);
+    border-radius:10px;
+    padding-left:6px;
+}
+.tex2{
+    margin-left:300px;
+}
+.tex3{
+    margin-left:20px;
+}
+.link{
+    margin-left:15px
+}
+body{
+    background-color:rgb(172, 135, 135):
+}
